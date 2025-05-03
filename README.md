@@ -1,3 +1,7 @@
+> The original repo [sql-data-warehouse-project](https://github.com/DataWithBaraa/sql-data-warehouse-project)
+>
+> Thank you Baraa Khatib Salkini for an amazing tutorial
+
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀  
