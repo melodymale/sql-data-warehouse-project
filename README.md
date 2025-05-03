@@ -66,9 +66,9 @@ data-warehouse-project/
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_architecture.png           # Shows the project's architecture
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # The data flow diagram
-│   ├── data_models.drawio              # Data models (star schema)
+│   ├── data_catalog.png                # Catalog of datasets, including field descriptions and metadata
+│   ├── data_flow.png                   # The data flow diagram
+│   ├── data_models.png                 # Data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
